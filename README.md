@@ -69,3 +69,4 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+[![Simple Test](https://github.com/keremkarayaz/Analysis-Of-The-Most-Expensive-Football-Players/actions/workflows/blank.yml/badge.svg)](https://github.com/keremkarayaz/Analysis-Of-The-Most-Expensive-Football-Players/actions/workflows/blank.yml)
